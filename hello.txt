@@ -1,2 +1,1 @@
-Percobaan membuat file txt dalam branch development
 Sekarang hello.txt dalam branch main
