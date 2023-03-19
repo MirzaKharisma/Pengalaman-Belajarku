@@ -1,4 +1,2 @@
 Sekarang hello.txt dalam branch main
 Update hello.txt di akun yang berbeda
-
-Mencoba melakukan pembaruan melalui fork repository
