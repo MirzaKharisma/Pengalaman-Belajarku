@@ -1,2 +1,1 @@
-Percobaan membuat file txt dalam branch development
-Sekarang mari buat conflict pada branch development agar bisa disolve
+Sekarang hello.txt dalam branch main
