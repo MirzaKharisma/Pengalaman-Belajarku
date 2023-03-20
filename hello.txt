@@ -3,3 +3,5 @@ Update hello.txt di akun yang berbeda
 
 kalimat 1 pada baris 4
 kalimat 2 pada baris 5
+Kalimat 3 pada baris 6 melakukan squash hanya dari pemilik karena
+pada branch main menerapkan protection
