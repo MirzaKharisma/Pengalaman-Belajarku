@@ -8,3 +8,5 @@ pada branch main menerapkan protection
 
 Harusnya melakukan squash and merge disini cuy
 bukannya di branch main
+tapi ya sudah deh, yang penting jangan diulangin lagi, perhatiin dengan bener
+branchnya
