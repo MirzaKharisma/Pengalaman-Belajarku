@@ -5,3 +5,8 @@ kalimat 1 pada baris 4
 kalimat 2 pada baris 5
 Kalimat 3 pada baris 6 melakukan squash hanya dari pemilik karena
 pada branch main menerapkan protection
+
+Harusnya melakukan squash and merge disini cuy
+bukannya di branch main
+tapi ya sudah deh, yang penting jangan diulangin lagi, perhatiin dengan bener
+branchnya
